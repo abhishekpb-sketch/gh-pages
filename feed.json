@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://abhishekpb-sketch.github.io/gh-pages/hello-there.html",
-            "url": "https://abhishekpb-sketch.github.io/gh-pages/hello-there.html",
+            "id": "https://abhishekpb-sketch.github.io/gh-pages/hello-there/",
+            "url": "https://abhishekpb-sketch.github.io/gh-pages/hello-there/",
             "title": "Hello There!",
             "summary": "This is a sample test post. Lorem Ipsum",
             "content_html": "<p>This is a sample test post. Lorem Ipsum<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1.jpg\" alt=\"hero image\" width=\"7360\" height=\"4912\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/responsive/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1-xs.jpg 640w ,https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/responsive/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1-sm.jpg 768w ,https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/responsive/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1-md.jpg 1024w ,https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/responsive/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1-lg.jpg 1366w ,https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/responsive/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1-xl.jpg 1600w ,https://abhishekpb-sketch.github.io/gh-pages/media/posts/1/responsive/eugenia-pan-kiv-g8LRfdGEsJA-unsplash-1-2xl.jpg 1920w\"></figure>",
